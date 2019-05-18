@@ -12,7 +12,7 @@ View the final page [here](https://j7w7v4k67y.codesandbox.io/).
 
 ![Solar Excursions](SolarExcursions.png)
 
-# Developer Setup
+# Setup
 ## Install Node and npm
 [Node](https://nodejs.org/en/download/) 10.15 or above (also installs npm)
 
