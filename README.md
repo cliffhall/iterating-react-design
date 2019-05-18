@@ -7,3 +7,7 @@ They choose to move quickly at first by using React-Bootstrap just to get someth
 During the [second sprint](https://xlrvn41n6p.codesandbox.io/), they refactor to create a custom component kit. At first it just renames existing React-Bootstrap components, leaving the app looking the same. But now they've isolated the React-Bootstrap dependency to their kit. 
 
 Finally, in their [third sprint](https://j7w7v4k67y.codesandbox.io/), they add support for per-destination themes, and custostm styles that don't look like out-of-box React-Bootstrap anymore. 
+
+View the final page [here](https://j7w7v4k67y.codesandbox.io/).
+
+![Solar Excursions](SolarExcursions.png)
