@@ -1,0 +1,22 @@
+{
+  "name": "iterating-react-design-part-3",
+  "version": "0.0.22",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-bootstrap": "1.0.0-beta.8",
+    "react-dom": "16.8.6",
+    "styled-components": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
