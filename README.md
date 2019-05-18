@@ -17,7 +17,7 @@ View the final page [here](https://j7w7v4k67y.codesandbox.io/).
 [Node](https://nodejs.org/en/download/) 10.15 or above (also installs npm)
 
 ## Install Node modules
-cd path/to/iterating-react-design (the rest of this document assumes you are at this location)
+`cd path/to/iterating-react-design` (the rest of this document assumes you are at this location)
 
 `npm install`
 
